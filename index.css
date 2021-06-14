@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#title{
+    background-color: #013328;
+    text-align: center;
+    padding: 40px;
+
+}
+#title h1{
+    color: #CC8B65;
+    font-size: 40px;
+}
+#title p{
+    color: white;
+    padding-top: 10px;
+}
+#image{
+    text-align: center;
+}
+#img_caption{
+    margin-top: 20px;
+    color:#013328;
+    text-shadow: teal 1px 0px;
+}
+/*media only screen and (max-width:8410px){
+    #title{
+        background-color: thistle;
+        width: 100px;
+    }
+    #image {
+    max-width: 100%;
+    height: auto;
+    }
+    #img_caption{
+        width: 100px;
+    }
+
+}*/
+form{
+    padding: 15px;
+}

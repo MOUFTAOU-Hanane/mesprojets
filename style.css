@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: cadetblue;
+    color:  blanchedalmond;
+    
+    
+}
+
+ div{
+    padding: 12px;
+
+    padding-left: 150px;
+    
+}
+.A,.B{
+    padding-left:  450px; ;
+}
+.C{
+    padding-left:  300px; ;
+}
+h1{
+    text-align: center;
+    font-size:  55px;
+    text-transform: capitalize;
+    color: blanchedalmond;
+}
+input{
+    outline: none;
+    border-color:blanchedalmond;
+    box-shadow: blanchedalmond 2px;
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+    white-space: unset;
+}
+button{
+    font-size: 20px;
+    outline: none;
+    background-color: maroon;
+    color: blanchedalmond;
+    padding: 5px;
+}
